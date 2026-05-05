@@ -53,4 +53,4 @@ If you use this code or methodology in your research, please cite the following 
 ```
 
   * **ArXiv**: [https://arxiv.org/abs/2604.08390](https://arxiv.org/abs/2604.08390)
-  * **Dataset (Figshare)**: [DOI: 10.48420/27283161](https://www.google.com/search?q=https://doi.org/10.48420/27283161)
+  * **Dataset (Figshare)**: [DOI: 10.48420/27283161](https://doi.org/10.48420/27283161)
